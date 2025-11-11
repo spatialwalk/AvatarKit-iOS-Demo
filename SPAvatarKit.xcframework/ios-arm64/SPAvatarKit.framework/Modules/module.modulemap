@@ -1,0 +1,6 @@
+framework module SPAvatarKit {
+  umbrella header "SPAvatarKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
